@@ -1,4 +1,4 @@
-https://github.com/MuhammadUmar969/MuhammadUmar969/blob/main/background.jpeg
+<img src=" https://github.com/MuhammadUmar969/MuhammadUmar969/blob/main/background.jpeg" />
 
 <h1 align="center">Hi 👋, I'm Muhammad Umar Aziz Khan</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
